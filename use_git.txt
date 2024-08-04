@@ -1,0 +1,8 @@
+//pour envoyer
+git status --> pour voir les fichiers modifs
+git add (tous les fichiers modifs)
+git commit -m "<message>"
+git push
+
+//pour recuperer
+git pull
